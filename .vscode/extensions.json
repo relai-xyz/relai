@@ -17,6 +17,7 @@
     "esbenp.prettier-vscode",
     "alduncanson.react-hooks-snippets",
     "kuscamara.remove-unused-imports",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "unifiedjs.vscode-mdx"
   ]
 }
